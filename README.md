@@ -1,9 +1,9 @@
 ## Author
-**SHYAM KUMAR V**  
+**SOLAI PANDIYAN.H**  
 **Company**: CODETECH IT SOLUTIONS  
-**Id**: CT12DS2958  
-**Domain**: Full Stack Web Development  
-**Duration**: Dec 5th 2024 to Feb 5th, 2025
+**Id**: CT08VGL  
+**Domain**: FRONT END WEB DEVELOPMENT  
+**Duration**: FEB 20 TO MAR 20
 
 
 # Real-Time Chat Application
